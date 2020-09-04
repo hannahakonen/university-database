@@ -5,6 +5,7 @@ Project work for the Databases course (Aalto University): UML diagram, relationa
 
 ## Files
 - UML.png
+- relations.pdf
 - University database create.sql: code for creating tables, example views and indexes
 - University database insert example data.sql: code for inserting the example data for test queries
 - University database queries.sql: example use cases
