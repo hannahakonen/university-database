@@ -1,7 +1,14 @@
 # University Database
 
 ## Introduction
-Project work for the Databases course (Aalto University): UML diagram, relational data model, SQL database and use cases
+Project work for the Databases course (CS-A1150, Aalto University)
+- UML diagram
+- relational data model
+- functional dependencies
+- anomalies
+- Boyce-Codd normal form
+- SQL database
+- use cases
 
 ## Files
 - UML.png
