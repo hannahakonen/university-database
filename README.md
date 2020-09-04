@@ -1,7 +1,7 @@
 # University Database
 
 ## Introduction
-Project work for the Databases course (CS-A1150, Aalto University)
+Project work for the Databases course (CS-A1150, Aalto University) done with SQLiteStudio 3.2.1
 - UML diagram
 - relational data model
 - functional dependencies
