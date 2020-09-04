@@ -1,4 +1,8 @@
 # university-database
 Project work for the Databases course (Aalto University): UML diagram, relational data model, SQL database and use cases
 
-Unfortunately, the project report is only in Finnish at the moment. However, the names of the tables and attributes are in English.
+Files
+University database create.sql: code for creating tables, example views and indexes
+University database insert example data.sql: code for inserting the example data for test queries
+University database queries.sql: example use cases
+University database.pdf: an original project report in Finnish
