@@ -10,10 +10,13 @@ Project work for the Databases course (CS-A1150, Aalto University) summer 2020 d
 - SQL database
 - use cases
 
+## UML diagram
+
+![UML diagram](https://github.com/Katijoz/university-database/blob/master/images/UML.png)
+
 ## Files
 
 ### doc
-- UML.png
 - relations.pdf
 - University database.pdf: an original project report in Finnish
 
